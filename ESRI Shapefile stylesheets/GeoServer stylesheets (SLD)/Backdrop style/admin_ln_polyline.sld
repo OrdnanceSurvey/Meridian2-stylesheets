@@ -6,7 +6,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
     <Name>Meridian 2 (Backdrop style) - Boundaries</Name>
     <UserStyle>
       <Title>Product SLD - September 2016</Title>
-      <Abstract>Meridian&#8482; 2. &#169; Crown copyright and/or database right 2016. OS</Abstract>
+      <Abstract>Meridian&#174; 2. &#169; Crown copyright and/or database right 2016. OS</Abstract>
       
       <!-- County Boundary -->
 
