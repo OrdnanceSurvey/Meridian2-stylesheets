@@ -32,7 +32,7 @@ We recommend viewing the map between **1:20,000** and **1:75,000** for maximum l
 
 Your map should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/Meridian2-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/ESRI%20stylesheets%20(LYR)/Full%20Colour%20style/images/Meridian2_BD_screenshot.png "Screenshot of Meridian 2")
+  ![Screenshot](https://github.com/OrdnanceSurvey/Meridian2-stylesheets/raw/master/ESRI%20Shapefile%20stylesheets/ESRI%20stylesheets%20(LYR)/Full%20Colour%20style/images/Meridian2_FC_screenshot.png "Screenshot of Meridian 2")
 
 ## Compatibility notes
 

@@ -13,13 +13,13 @@
   </edittypes>
   <renderer-v2 attr="CODE" forceraster="0" symbollevels="1" type="categorizedSymbol">
     <categories>
-      <category render="true" symbol="0" value="6223" label="Small Rivers"/>
-      <category render="true" symbol="1" value="6224" label="Medium Rivers"/>
-      <category render="true" symbol="2" value="6225" label="Large Rivers"/>
-      <category render="true" symbol="3" value="6230" label="Canals"/>
-      <category render="true" symbol="4" value="6231" label="Canals"/>
-      <category render="true" symbol="5" value="6232" label="Small Rivers"/>
-      <category render="true" symbol="6" value="6243" label="Canals"/>
+      <category render="true" symbol="0" value="6223" label="Small River"/>
+      <category render="true" symbol="1" value="6224" label="Medium River"/>
+      <category render="true" symbol="2" value="6225" label="Large River"/>
+      <category render="true" symbol="3" value="6230" label="Hidden"/>
+      <category render="true" symbol="4" value="6231" label="Aqueduct"/>
+      <category render="true" symbol="5" value="6232" label="Dark Link"/>
+      <category render="true" symbol="6" value="6243" label="Canal"/>
     </categories>
     <symbols>
       <symbol alpha="1" clip_to_extent="1" type="line" name="0">
@@ -87,7 +87,7 @@
           <prop k="customdash_unit" v="MM"/>
           <prop k="draw_inside_polygon" v="0"/>
           <prop k="joinstyle" v="bevel"/>
-          <prop k="line_color" v="0,169,202,255"/>
+          <prop k="line_color" v="0,169,202,0"/>
           <prop k="line_style" v="solid"/>
           <prop k="line_width" v="25"/>
           <prop k="line_width_unit" v="MapUnit"/>
@@ -125,7 +125,7 @@
           <prop k="customdash_unit" v="MM"/>
           <prop k="draw_inside_polygon" v="0"/>
           <prop k="joinstyle" v="bevel"/>
-          <prop k="line_color" v="0,169,202,255"/>
+          <prop k="line_color" v="0,169,202,0"/>
           <prop k="line_style" v="solid"/>
           <prop k="line_width" v="10"/>
           <prop k="line_width_unit" v="MapUnit"/>

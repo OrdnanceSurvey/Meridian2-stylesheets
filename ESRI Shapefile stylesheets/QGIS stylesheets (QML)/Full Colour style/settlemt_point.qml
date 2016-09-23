@@ -64,9 +64,9 @@
     <property key="labeling/blendMode" value="0"/>
     <property key="labeling/bufferBlendMode" value="0"/>
     <property key="labeling/bufferColorA" value="255"/>
-    <property key="labeling/bufferColorB" value="247"/>
-    <property key="labeling/bufferColorG" value="249"/>
-    <property key="labeling/bufferColorR" value="250"/>
+    <property key="labeling/bufferColorB" value="250"/>
+    <property key="labeling/bufferColorG" value="252"/>
+    <property key="labeling/bufferColorR" value="252"/>
     <property key="labeling/bufferDraw" value="true"/>
     <property key="labeling/bufferJoinStyle" value="128"/>
     <property key="labeling/bufferNoFill" value="false"/>
